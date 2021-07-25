@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Aloysius Alfa Adji Putra**.\
+Biasa dipanggil Lui
+
+Saya seorang **Guru, Pecinta Teknologi (Web,Mobile,Robotika,dll) dan Pemilik Usaha Rumah Kost48Surabaya** di [Kost 48 Surabaya](https://www.kost48surabaya.com/).\
+
+
+Jika kamu tertarik untuk berkenalan denganku, silakan cek web pribadiku ya [Website Pribadi](https://www.kost48surabaya.com/lui/)ku ya.
 <!--
 **liemlui/liemlui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
